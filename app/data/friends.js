@@ -1,5 +1,5 @@
 var friendsArray = [{
-    "name": "Vincent Visconti",
+    "name": "Joseph Imburgio",
     "photo": "http://www.vivi.guru/assets/images/ProPic.jpg",
     "scores": [
       "1",
@@ -15,7 +15,7 @@ var friendsArray = [{
     ]
   },
   {
-    "name": "Maximus Decimus Meridius",
+    "name": "John Rispoli",
   "photo": "http://vignette2.wikia.nocookie.net/gladiator2000/images/9/90/Maximus_Decimus_Meridius.jpg",
   "scores": [
   "5",
@@ -31,7 +31,7 @@ var friendsArray = [{
     ]
   },
   {
-    "name": "William Wallace",
+    "name": "Darryl Ditzel",
     "photo": "http://www.monologuedb.com/wp-content/uploads/2011/01/braveheart.jpg",
     "scores": [
       "5",
@@ -47,7 +47,7 @@ var friendsArray = [{
     ]
   },
   {
-    "name": "Lloyd Christmas",
+    "name": "Mendell JeanCharles",
     "photo": "http://3.bp.blogspot.com/-Bl-Dhb9ZYLc/TwEnAdeepdI/AAAAAAAALJI/vqiTe7S4_t0/s1600/jim+carrey.jpg",
     "scores": [
       "3",
@@ -63,7 +63,7 @@ var friendsArray = [{
     ]
   },
   {
-    "name": "Harry Dunne",
+    "name": "Patrick Wong",
     "photo": "https://s-media-cache-ak0.pinimg.com/564x/ca/b2/65/cab2651567d8b66343bc2271ec793b03.jpg",
     "scores": [
       "4",
@@ -78,38 +78,6 @@ var friendsArray = [{
       "4"
     ]
   },
-  {
-    "name": "Michael Scott",
-    "photo": "http://68.media.tumblr.com/dc1828fa22136fdef3af486add7a2aed/tumblr_inline_nopuhdnvKd1tuzcai_500.jpg",
-    "scores": [
-      "4",
-      "4",
-      "2",
-      "3",
-      "2",
-      "2",
-      "3",
-      "2",
-      "4",
-      "5"
-    ]
-  },
-  {
-    "name": "Tyrion Lannister",
-    "photo": "https://pbs.twimg.com/profile_images/668279339838935040/8sUE9d4C.jpg",
-    "scores": [
-      "4",
-      "5",
-      "2",
-      "2",
-      "3",
-      "2",
-      "5",
-      "4",
-      "5",
-      "5"
-    ]
-  }
-  ];
+
   
-  module.exports = friendsArray;
+  module.exports = friendsArray]
